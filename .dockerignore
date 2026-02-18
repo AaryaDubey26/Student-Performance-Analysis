@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.git/
+.github/
+.gitignore
+notebook/
+catboost_info/
+logs/
+artifacts/*.csv
+Student_Performance_Analysis.egg-info/
