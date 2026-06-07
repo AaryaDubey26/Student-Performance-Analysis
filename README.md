@@ -1,11 +1,3 @@
----
-title: Student Performance Analysis
-sdk: docker
-emoji: 
-colorFrom: blue
-colorTo: green
-app_port: 7860
----
 
 # Student Performance Analysis
 
